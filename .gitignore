@@ -1,0 +1,26 @@
+media
+logs
+venv
+pgdata
+static_collected
+node_modules
+
+
+.idea
+*.mo
+*.py[co]
+*.sqlite3
+.DS_Store
+.Python
+.settings
+.project
+.pydevproject
+*.sublime-*
+.sass-cache
+*.swp
+*.bak
+*_pb2.py
+
+
+## django-jenkins reports
+reports
